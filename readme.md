@@ -52,14 +52,6 @@ The Online Mart API is composed of six distinct microservices, each serving a cr
 
 - **Kafka**: Navigate to [http://127.0.0.1:8080](http://127.0.0.1:8080) to view Kafka topics.
 
-
-### Starting the Project
-
-To start the project, use the following command:
-
-```bash```
-docker compose up -d 
-
 ### Architecture Diagram
 
 To understand the connections between these services, please view the architecture diagram below:
@@ -72,3 +64,10 @@ To understand the connections between these services, please view the architectu
 Building the Online Mart API has been an incredibly rewarding experience. The journey was filled with challenges that pushed us to learn new techniques and tools, making us more capable developers. This project highlights the power of modern technology and the importance of perseverance in software development.
 
 Thank you for exploring the Online Mart API. We hope you find it as exciting to use as We did to build!
+
+### Starting the Project
+
+To start the project, use the following command:
+
+```bash
+docker compose up -d
