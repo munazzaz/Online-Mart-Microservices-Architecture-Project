@@ -56,7 +56,7 @@ The Online Mart API is composed of six distinct microservices, each serving a cr
 
 To understand the connections between these services, please view the architecture diagram below:
 
-![Architecture Diagram](Screenshot (275).png)
+![Architecture Diagram](services-connection-diagram.png)
 
 
 ### Final Thoughts
