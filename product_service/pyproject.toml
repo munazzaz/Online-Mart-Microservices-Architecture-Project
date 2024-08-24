@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "product-service"
+version = "0.1.0"
+description = ""
+authors = ["Munazza Zahid <munazzazahid5@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+fastapi = "^0.111.0"
+sqlmodel = "^0.0.19"
+uvicorn = {extras = ["standard"], version = "^0.30.1"}
+aiokafka = "^0.10.0"
+psycopg2-binary = "^2.9.9"
+psycopg = "^3.1.19"
+protobuf = "^5.27.2"
+grpcio-tools = "^1.64.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
