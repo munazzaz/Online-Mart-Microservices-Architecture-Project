@@ -57,8 +57,8 @@ The Online Mart API is composed of six distinct microservices, each serving a cr
 
 To start the project, use the following command:
 
-```bash
-docker compose up -d ```
+```bash```
+docker compose up -d 
 
 ### Architecture Diagram
 
