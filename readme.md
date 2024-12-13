@@ -1,6 +1,6 @@
 # Online Mart API
 
-Welcome to the **Online Mart API** project! This project is made by Munazza Zahid and Sana Zahid. This project is a modern, scalable solution built using the latest technologies. It was a thrilling journey to develop this application, with a few setbacks along the way, but the learning experience was invaluable. Working on this project has significantly expanded our skill set, and we are excited to share the results with you.
+Welcome to the **Online Mart API** project! This project is a modern, scalable solution built using the latest technologies. It was a thrilling journey to develop this application, with a few setbacks along the way, but the learning experience was invaluable. Working on this project has significantly expanded my skill set, and I am excited to share the results with you.
 
 ## Overview
 
@@ -61,9 +61,9 @@ To understand the connections between these services, please view the architectu
 
 ### Final Thoughts
 
-Building the Online Mart API has been an incredibly rewarding experience. The journey was filled with challenges that pushed us to learn new techniques and tools, making us more capable developers. This project highlights the power of modern technology and the importance of perseverance in software development.
+Building the Online Mart API has been an incredibly rewarding experience. The journey was filled with challenges that pushed us to learn new techniques and tools, making me a more capable developer. This project highlights the power of modern technology and the importance of perseverance in software development.
 
-Thank you for exploring the Online Mart API. We hope you find it as exciting to use as We did to build!
+Thank you for exploring the Online Mart API. I hope you find it as exciting to use as I did to build!
 
 ### Starting the Project
 
