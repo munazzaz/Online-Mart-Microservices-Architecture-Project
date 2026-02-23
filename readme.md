@@ -61,7 +61,7 @@ To understand the connections between these services, please view the architectu
 
 ### Final Thoughts
 
-Building the Online Mart API has been an incredibly rewarding experience. The journey was filled with challenges that pushed us to learn new techniques and tools, making me a more capable developer. This project highlights the power of modern technology and the importance of perseverance in software development.
+Building the Online Mart API has been an incredibly rewarding experience. The journey was filled with challenges that pushed me to learn new techniques and tools, making me a more capable developer. This project highlights the power of modern technology and the importance of perseverance in software development.
 
 Thank you for exploring the Online Mart API. I hope you find it as exciting to use as I did to build!
 
